@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 , Agro TV (Apurimac) group-title="TV", AgroTV
+#EXTINF:-1 tvg-id="Agro TV (Apurimac)" tvg-logo="https://assetsio.reedpopcdn.com/cory-barlog-discusses-almost-cutting-kratos-from-god-of-war-2018-1561552737250.jpg?width=690&quality=75&format=jpg&auto=webp" group-title="General",X (Agro TV)
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 , AnimeZoneTV group-title="Animation",Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
